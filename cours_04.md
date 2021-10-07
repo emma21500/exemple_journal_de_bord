@@ -2,19 +2,26 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+
+C'est ma première année au cégep Montmorency. J'arrive du collège Laval, là-bas j'ai jour de la musique. L'instrument que j'ai joué s'appelle la clarinette basse. J'aime bien écouter des films et des animes.
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+
+J'aime beaucoup les animations 2D et 3D, les jeux vidéos et la réalité virtuelle.
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+
+Testeur de jeux vidéos. Cet emploi consiste à faire des tests pour fixer des bogues. Les testeurs travaillent sur plusieurs plateformes comme PS4, Xbox, Pc et plus 
+Concepteur de jeux vidéos. Cet emploi consiste à construire les bases d'un jeu vidéo sous tous ses aspects. Il essaye de créer des idées originales en choisissant les différentes composantes du jeu soit l'apparence des personnages et des mondes. Il s'occupe également des évènements, des sons et des images qui se retrouveront dans le jeu. 
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+
+Respawn. J'ai choisi cette entreprise parce qu'elle a créé mon jeu vidéo préféré, Apex Legends
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+
+D'ici 5 ans je me vois travailler seul ou dans une entreprise en lien avec des jeux vidéos ou au Japon.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+ 
+J'aimerais aider au développement de l'application de jeu mobile d'Apex Legends
