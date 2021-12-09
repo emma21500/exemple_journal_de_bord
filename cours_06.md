@@ -11,4 +11,4 @@ Si quelque chose ne marche pas ou brise durant le projet, qu'est-ce que vous fai
 
 De quoi vous êtes-vous inspiré?
 
-Est-ce qu'il y a des conséquences, si une personne décide de faire presque rien?
+Est-ce qu'il y a des conséquences, si une personne décide d'abandonner durant le projet?
