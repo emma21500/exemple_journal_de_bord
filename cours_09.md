@@ -3,6 +3,7 @@
 En 8 à 12 lignes, revenez sur la table ronde du cours. Choisissez le sujet que vous avez préféré et exprimer votre opinion sur celui-ci. Comment ce sujet vous touche-t-il en tant que créateur? Quels sont les enjeux reliés à ce sujet? 
 
 J'ai bien aimé la présentation sur Genshin Impact. 
+
 C'est un jeu que j'ai beaucoup entendu parler, mais que je n'ai pas porté attention. 
 
 Les jeux vidéos captent toujours mon attention et grâce à la présentation, j'ai eu envi de jouer au jeu. 
