@@ -18,7 +18,6 @@ Nommer les technologies reliées au projet.
 
 Création d’un personnage :
 Utilisation d’un modèle 3D
-
 Zbrush pour le sculpt du modela haute définition.
 
 Blender pour le modèle basse définition.
