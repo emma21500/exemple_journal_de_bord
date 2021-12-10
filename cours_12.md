@@ -2,4 +2,4 @@
 ## Création de scénarimage
 Créer un scénarimage et le joindre ici: 
 
-![GITHUB](https://user-images.githubusercontent.com/89608228/145457564-c3f11fbb-058b-40ab-9e80-5a4ebc39db96.PNG)
+![scénarimage](https://user-images.githubusercontent.com/89608228/145607282-f6844413-1a4b-4ef7-bb71-c38948fa5554.PNG)
