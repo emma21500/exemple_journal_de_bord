@@ -4,6 +4,7 @@ Durée: 5 à 7 minutes
 
 ### Présentation
 Parlez du projet multimédia sélectionné. 
+
 Horizon Zero Dawn prend place dans un univers post-apocalyptique dominé par des machines, en particulier des animaux robotiques. Le jeu se déroule dans un futur éloigné de quelques milliers d'années, où la civilisation humaine s'est complètement effondrée et où les machines étant devenues les plus puissantes en ce monde, dominent. La mission d’Aloy, une paria, est de découvrir la vérité qui a sombré avec une femme mystérieuse. Pour atteindre son objectif, Aloy devra se battre contres des machines et des hommes, en plus de compléter des quêtes
 
 
@@ -13,7 +14,8 @@ Joindre la carte heuristique du projet.
 
 
 ### Technologies
-Nommer les technologies reliées au projet. 
+Nommer les technologies reliées au projet.
+
 Création d’un personnage :
 Utilisation d’un modèle 3D
 Zbrush pour le sculpt du modela haute définition 
